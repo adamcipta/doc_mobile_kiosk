@@ -1,3 +1,3 @@
-# Dokumentasi Online untuk perubahan coding untuk keperluan Mobile Apps & KiosK teraMedik
+# Dokumentasi Online teraMedik ( Mobile Apps & KiosK )
 
 Pencatatan dokumentasi ini diharapkan dapat mempermudah dalam mengakses, view, copy paste untuk kebutuhan kedepan
